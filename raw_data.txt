@@ -1,0 +1,303 @@
+	Code Pénal - FDO Spirit City - Validé par French le 29/04/2026												
+	Spirit State Fdo						Blaine County			Liberty City			
+	#	CATEGORIE	INFRACTION	AMENDE EN $	SUPPLEMENTS	PEINES	Amendes ($)	Note	Peines	Amendes ($)	Note	Peines	
+x	1	Contravention	Stationnement d'un bateau sur la côte hors d'un port	450$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Manoeuvres dangereuses aux égards des circonstances	90$	-	00:00							
+x	1	Contravention	Navigation à moins de 100m des côtes	90$	-	00:00							
+x	1	Contravention	Navigation à plus de 30 Km/h dans une voie portuaire	90$	-	00:00							
+x	1	Contravention	Navigation à l'approche d'un port en dehors d'une voie portuaire	450$	-	00:00							
+x	1	Contravention	Non-respect d'une distance de sécurité	900$	-	00:00							
+x	1	Contravention	Mise en circulation d'un véhicule maritime sans assurance adéquate	450$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Véhicule circulant sur la voie maritime non muni de plaques d'immatriculation 	1 800$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Véhicule circulant sur la voie maritime munies de plaques d'immatriculation trafiquées	2 700$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Refus d'obtempérer à une injonction des pouvoirs publics	1 350$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Atterrissage d'un avion ou hélicoptère sur un site inapproprié à son utilisation	800$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Survol d'un avion ou hélicoptère sur un site inapproprié à son utilisation	1 350$	-	00:00							
+x	1	Contravention	Non signalisation sur la fréquence de signalisation aérienne	225$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Mise en circulation d'un véhicule aerien sans assurance adéquate		Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Véhicule circulant sur la voie aérienne non muni de plaques d'immatriculation	270$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Véhicule circulant sur la voie aérienne munies de plaques d'immatriculation trafiquées	270$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Appareil aérien non enregistré	1 350$	Saisie de l'appareil	00:00							
+x	1	Contravention	Atteinte à la pudeur	450$	-	00:00							
+x	1	Contravention	Bateau non enregistré	900$	-	00:00	$50		0	$50		0	
+x	1	Contravention	Conduite Hors route/hors piste	1 080$	-	00:00							
+x	1	Contravention	Circulation zone maritime interdite	900$	-	00:00							
+x	1	Contravention	Conduite dangereuse (Drift, Wheeling...)	900$	-	00:00							
+x	1	Contravention	Conduite en contre-sens	900$	-	00:00	$500	1 point	00:00	$250		0	
+x	1	Contravention	Dissimulation du visage	1 500$	-	00:00	N/A		00:00	$100		0	
+x	1	Contravention	Excès de vitesse 1-10km/h	360$	Conduite dangereuse	00:00	$500		00:00	$500		0	
+x	1	Contravention	Excès de vitesse 11-20 km/h 1pt	450$	Conduite dangereuse	00:00	$50		00:00	$50		0	
+x	1	Contravention	Excès de vitesse 21-30 km/h 2pts	540$	Conduite dangereuse	00:00	$150	1 point	00:00	$150	1 point	0	
+x	1	Contravention	Excès de vitesse 31-50 km/h 3pts	630$	Conduite dangereuse	00:00	$200	2 points	00:00	$200	2 points	0	
+x	1	Contravention	Excès de vitesse 51+ km/h retrait	810$	Retrait permis	00:00	$300	3 points	00:00	$300	3 points	0	
+x	1	Contravention	Franchissement d'une ligne continue 	450$	-	00:00	$300	Retrait permis	00:00	$300	Retrait permis	0	
+x	1	Contravention	Holster interdit (Sauf PPA)	1 350$	Saisie du Holster	00:00	$300	Saisie	00:00	$300	Saisie	0	
+x	1	Contravention	Insulte envers un civil	270$	-	00:00	$200		00:00	$300	Dégrisement	0	
+x	1	Contravention	Ivresse ou consommation de stupéfiants sur la voie publique	2 700$	Dégrisement / Test du médecin	00:00							
+x	1	Contravention	Mendicité en lieu public	1 350$	-	00:00	$100		00:00	$100		0	
+x	1	Contravention	Non respect des distances de sécurité (1.5 m)	135$	-	00:00							
+x	1	Contravention	Non respect d'un feu rouge (Stop & GO)	360$	-	00:00	$500		00:00	$300		0	
+x	1	Contravention	Non respect d'un véhicule prioritaire	6 300$	-	00:00	$200		0	$500		0	
+x	1	Contravention	Non présentation des papiers d'identité	450$	Convocation dans les 48h pour présenter ses papiers	00:00							
+x	1	Contravention	Occupation illégale de l'espace public	720$	intervention policiere	00:00	$150		00:00	$150		0	
+x	1	Contravention	Participation à une manifestation illégale	1 350$	intervention policiere	00:00	$100		00:00	$100		0	
+x	1	Contravention	Pêche sur un lieu illégal	900$	x Nb d'espece proteger a saisir 	00:00	$200		00:00	$200		00:00	
+x	1	Contravention	Présence piétonne sur une autoroute	1 800$	-	00:00	$400		00:00	$300		00:00	
+x	1	Contravention	Rappel à la loi Grave	13 500$	-	00:00	$1 500		01:00	$1 250		01:00	
+x	1	Contravention	Rapport de vol non enregistré	2 700$	Mise en fourrière du véhicule	00:00							
+x	1	Contravention	Stationnement Génant	570$	-	00:00	$750		00:30	$750		00:30	
+x	1	Contravention	Stationnement Interdit	2 700$	Saisie du véhicule	00:00	$1 125	Saisie des armes	00:00	$1 500	Saisie	00:00	
+x	1	Contravention	Tapage nocturne	360$	-	00:00	$500		00:00	N/A		00:00	
+x	1	Contravention	Usage abusif du Klaxon	450$	-	00:00	$300	x Nb carapaces	01:00	$300	x Nb carapaces	01:00	
+	1	Contravention	Véhicule Dégradé	450$	-	00:00	$1 250	"Saisie armes / argent
+Retrait PPA"	01:00	$1 250	"Saisie armes / argent
+Retrait PPA"	01:00	
+x	1	Contravention	Conduite avec faculté affaiblies	2 250$	>0,40gr/L Alcool + Retrait permis	00:00							
+x	1	Contravention	Faux Appels (Canulars)	42 000$	-	00:00							
+x	2	Délit mineur	Agression sur citoyen / maltraitance animal	10 500$	Saisie armes	00:30	$750	Retrait permis	00:00	$1 500	Retrait permis	00:00	
+x	2	Délit mineur	Survol de zone restreintes classé zones d'exclusions aériennes	40 500$	Mise en fourrière du véhicule	00:10							
+x	2	Délit mineur	Possession de poisson illégaux (tortues, requins et espadons)	350$	x quantité + relacher les poissons et/ou destruction	00:10							
+x	2	Délit mineur	Atterrissage d'un avion ou hélicoptère sur un site gouvernemental	27 000$	Mise en fourrière du véhicule	00:10							
+x	2	Délit mineur	Survol d'un avion ou hélicoptère au dessus d'un site gouvernemental	10 500$	Mise en fourrière du véhicule	00:10							
+x	2	Délit mineur	Outrage à agent (de base)	5 000$	50 TIG	00:10							
+x	2	Délit mineur	Appel abusif service publics	5000$		00:15	$525		00:00	$525		00:30	
+x	2	Délit mineur	Arme blanche sortie en public	1 350$	Confiscation de l'arme	00:10	$1 125	Prolongation du retrait de 48h	01:00	$1 125		01:00	
+x	2	Délit mineur	Braconnage - Chasse	350$	x quantité + relacher les PROIES et/ou destruction	00:10	$1 050	Mise en fourrière	00:30	$1 050	Mise en fourrière	00:30	
+x	2	Délit mineur	Braquage de Citoyens	5 600$	Saisie armes / argent	00:20	$525		00:00	$525		00:00	
+x	2	Délit mineur	Braquage de Supérette	3 250$	Saisie armes / argent	00:20	$300		00:00	$300		00:00	
+x	2	Délit mineur	Braquage d'ATM / Piratage d'ATM 	5 250$	Saisie armes / argent	00:15	$900		00:00	$900		00:00	
+x	2	Délit mineur	Cambriolage	1 350$	Saisie du vol	00:15	$1 050		00:30	$1 050		00:30	
+x	2	Délit mineur	Conduite sans permis	1 350$	Mise en fourrière du véhicule	00:15	$1 500		00:30	$1 500		00:30	
+x	2	Délit mineur	Conduite d'un véhicule volé 	2 350$	Retrait du permis	00:15	$1 500	Saisie armes	00:00	$1 500	Saisie armes	00:00	
+x	2	Délit mineur	Conduite sous interdiction de permis	2 070$	Prolongation du retrait de 48h  + Mise en fourrière du véhicule	00:15	$3 000	Saisie armes	00:30	$3 000	Saisie armes	00:30	
+x	2	Délit mineur	Consommation de cannabis sur la voie publique 	720$	Saisie + dégrisement	00:15	$1 000	Saisie du vol	00:30	$8 000	Saisie du vol	00:30	
+x	2	Délit mineur	Consommation de cocaïne sur la voie publique 	1 350$	Saisie + dégrisement	00:10	$1 350	Dédommagement	00:00	$1 500		00:00	
+x	2	Délit mineur	Consomation de méthamphétamine sur la voie publique	1 350$	Saisie + dégrisement	00:10	$1 500		00:00	$800		00:00	
+x	2	Délit mineur	Course de rue illegale (par conducteur)	1 350$	Mise en fourrière	00:10	$450		00:00	$450		00:00	
+x	2	Délit mineur	Dégradation de biens privés	2 900$	-	00:10	$750		00:30	$750		00:30	
+x	2	Délit mineur	Dégradation de biens publics	1 900$	-	00:10	$3 000	"Saisie armes
+Suspension permis 48h si véhicule
+Suspension ou Retrait PPA"	03:00	$3 000	"Saisie armes
+Suspension ou Retrait PPA"	03:00	
+x	2	Délit mineur	Dégradation de matériels publics (Ex: Veh LSPD)	5 500$	AmEnde + TIG	00:10							
+x	2	Délit mineur	Délit de fuite	3 350$	-	00:15	$1 050		00:30	$1 500		00:30	
+x	2	Délit mineur	Dissimulation du visage sur la voie publique	1 350$	-	00:10							
+x	2	Délit mineur	Entrave à une opération/enquête (police/justice)	3 500$	-	00:30	$750		00:30	$750		00:30	
+x	2	Délit mineur	Entrave espaces aériens	900$	"Suspension du permis aérien
+Confiscation de l'engin"	00:10	$2 000	Bracelet électronique	00:30	$2 000	Bracelet électronique	00:30	
+x	2	Délit mineur	Exhibition d’armes	3 350$	Saisie armes	00:15	$3 000		01:00	$3 000		01:00	
+x	2	Délit mineur	Exhibition d’armes lourdes	9 500$	Ajout de la Possession + Saisie armes	00:30	$750	Sasie armes	00:00	N/A		00:00	
+x	2	Délit mineur	Go fast	2 250$	Mise en fourrière du véhicule	00:20	$50	xqté	0	$50	xqté	0	
+x	2	Délit mineur	Manifestation illégale (par personne)	3 600$	Dédomagement	00:15	$20	x qté	0	$20	x qté	00:00	
+x	2	Délit mineur	Organisation d'une manifestation illégale (par personne)	14 500$	-	00:10	$45	x qté	0	$45	x qté	00:30	
+x	2	Délit mineur	Intrusion dans un bâtiment officiel de l'état	45 000$	TIG x 50	00:30							
+x	2	Délit mineur	Menace et/ou intimidation envers un civil	9 000$	-	00:15	$40	x qté	00:15	$40	x qté	00:15	
+x	2	Délit mineur	Mise en danger de la vie d’autrui	5 800$	Dédomagement	00:15	$150	x qté	0,04166666667	$90	x qté	01:00	
+x	2	Délit mineur	Non assistance a personne en danger	4 050$	-	00:20	$37	"Saisie des munitions
+qté > 1 chargeur
+Suspension ou Retrait PPA"	0	$37	"x qté
+qté > 1 chargeur
+Suspension ou Retrait PPA"	00:00	
+x	2	Délit mineur	Non dénonciation d’un crime	2 700$	-	00:15	$90	xqté	00:00	$50	xqté	00:00	
+x	2	Délit mineur	Non présentation à une convocation de police	6 750$	-	00:20	$200	x qté	01:30	$120	x qté	01:30	
+x	2	Délit mineur	Non respect de l'assignation géographique	18 000$	Bracelet électronique	00:10	$2 250		01:00	$500		00:00	
+x	2	Délit mineur	Non respect du code du travail	7 200$	Dédomagement	00:10							
+x	2	Délit mineur	Non respect du contrôle judiciaire	5 700$	-	00:10	$2 250		00:30	$2 250		00:30	
+x	2	Délit mineur	Obstruction de/ Entrave à l'espace maritime	3 600$	-	00:20							
+x	2	Délit mineur	Obstruction de/ Entrave à l'espace aérien	3 600$	-	00:15	$500	1 point	00:00	$500		00:00	
+x	2	Délit mineur	Pêche illégal (Espèce Protégée)	3 600$	Saisie	00:10	$950		00:00	$750		00:00	
+x	2	Délit mineur	Possession boîtier de piratage	970$	Saisie	00:10							
+x	2	Délit mineur	Possession de carte fleeca / banque	2 700$	Saisie	00:25							
+ARME BLANCHE	2	Délit mineur	Utilisation non-sportive de Batte de baseball (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation non-sportive de Club de Golf (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Clé Anglaise (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Marteau (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Karambit (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Pied de biche (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation non-sportive de Queue de billard (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Poing américain (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Couteau (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Cran d'arrêt (pas possession)	1 800$	Saisie si utilisation 	00:10							
+	2	Délit mineur	Utilisation Illégale de Katana (pas possession)	3 150$	Saisie + retrait PPA	00:15							
+	2	Délit mineur	Utilisation Illégale de Machette (pas possession)	3 150$	Saisie + retrait PPA	00:15							
+	2	Délit mineur	Utilisation Illégale tesson de bouteille (pas possession)	3 150$	Saisie + retrait PPA	00:15							
+	2	Délit mineur	Utilisation Illégale de Hachette (pas possession)	3 150$	Saisie + retrait PPA	00:15							
+	2	Délit mineur	Possession de Hache de guerre	3 150$	Saisie + retrait PPA	00:15							
+	2	Délit mineur	Utilisation Illégale de Dague antique (pas possession)	3 150$	Saisie + retrait PPA	00:15							
+Arme à feu	2	Délit mineur	Possession de Pistolet 	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pistolet Calibre 50 (Deagle)	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pistolet MKII (Berreta)	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pistolet combat (Glock)	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pistolet en céramique	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pistolet Lourd	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pistolet Paralysant (Taser)	13 500$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pistolet perforant 	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pétoire (SNS)	11 700$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de SNSPico (SNS)	11 700$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Pétoire MKII (Pétoire)	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Revolver Lourd	15 000$	Saisie + retrait PPA	00:20							
+	2	Délit mineur	Possession de Revolver Lourd MKII	15 000$	Saisie + retrait PPA	00:20							
+MUNITION	2	Délit mineur	Possession de Munition de pistolet	100$	Saisie armes et munitions	00:10	$500	xqté	00:00	$500	xqté	00:00	
+	2	Délit mineur	Possession de  Munition de SMG	230$	Saisie armes et munitions	00:10							
+	2	Délit mineur	Possession de  Munition de fusil à pompe	300$	Saisie armes et munitions	00:10							
+	2	Délit mineur	Possession de  Munitions fusil d'assaut	300$	Saisie armes et munitions	00:10							
+	2	Délit mineur	Possession de  Munitions machine gun	250$	Saisie armes et munitions	00:10							
+	2	Délit mineur	Possession de kit de fabrication de meth	5 000$	Saisie	00:10							
+	2	Délit mineur	Possession de Gaz BZ	1 250$	Saisie	00:10							
+	2	Délit mineur	Possession de Kevlar / Gilet par Balle	7 000$	Saisie	00:10							
+	2	Délit mineur	Possession de Poudre à canon	120$	Saisie	00:10							
+DROGUES	2	Délit mineur	Possession de Cannabis  ≥ 5 Kg	32$	Saisie	00:10	$1 200		00:30	$1 200		00:30	
+	2	Délit mineur	Possession de Cocaïne  ≥ 1 Kg	45$	Saisie	00:10	$750		00:00	$300		00:00	
+	2	Délit mineur	Possession de Crack ≥ 1 Kg	90$	Saisie	00:10							
+	2	Délit mineur	Possession d'Ecstasy ≥ 1 Kg	90$	Saisie	00:10							
+	2	Délit mineur	Possession d'Opium ≥ 5 Kg	90$	Saisie	00:10							
+	2	Délit mineur	Possession de Fentanyl ≥ 2 Kg	90$	Saisie	00:10							
+	2	Délit mineur	Possession d'Héroïne  ≥ 2 Kg	72$	Saisie	00:10							
+	2	Délit mineur	Possession d'Acide (tout types) ≥ 25 Kg	41$	Saisie	00:10							
+	2	Délit mineur	Possession de méthamphétamine ≥ 1 Kg	45$	saisie	00:10							
+	2	Délit mineur	Possession de Feuilles de salvia ≥ 10 Kg	20$	Saisie	00:10							
+	2	Délit mineur	Vente de Drogue	3 750$	1 qté < 75 unités	00:10							
+	2	Délit mineur	Possession ou prise en flagrant délit de crochetage	1 225$	Confiscation des crochetages	00:10	$1 450		00:30	$1 450		00:30	
+	2	Délit mineur	Recel de véhicule volé	2 025$	-	00:10							
+	2	Délit mineur	Recel de vol (objets + armes légales)	150$	x qté	00:10							
+	2	Délit mineur	Refus d’obtempérer	9 000$	Retrait de 6 points	00:15	$1 875	x qté + saisie	02:00	$2 000	x qté + saisie	01:00	
+	2	Délit mineur	Refus de comparaitre	18 000$	Multiplication par 2 de la peine finale	00:30							
+	2	Délit mineur	Refus de se soumettre à une injonction	5 080$	-	01:00	$22 500		06:00	$10 000	"Saisie armes / argent
+Retrait PPA"	03:00	
+	2	Délit mineur	Survol de zone interdite	90 000$	Zones : Fort Zancudo	00:15	$8 000		04:00	$5 000		03:00	
+	2	Délit mineur	Trafic de Stupéfiant	16 000$	1 qté > 75 unités ou preuve du trafic	00:10	$3 000	x qté	09:00	$8 000		03:00	
+	2	Délit mineur	Troubles à l’ordre public	13 500$	-	00:15	$5 250		06:00	$3 750	x qté	06:00	
+	2	Délit mineur	Usurpation d'identité / fonction	22 500$	-	00:20	$11 250		06:00	$7 500	Saisie biens/argent	03:00	
+	2	Délit mineur	Violation de propriété privée (Entreprise,logement ...)	10 500$	-	00:15	$20 000	"Homicide volontaire non prémédité
+Retrait PPA"	12:00	$11 250		05:00	
+	2	Délit mineur	Vol	1 350$	Restitution	00:15				$20 000	"Homicide volontaire non prémédité
+Retrait PPA"	12:00	
+	2	Délit mineur	Vol d'équipements d'entreprise	450$	x qté	00:10							
+	2	Délit mineur	Vol de produits d'entreprise	45$	x qté	00:10							
+	2	Délit mineur	Vol de véhicule entreprise	1 350$	-	00:10							
+	2	Délit mineur	Vol de véhicule service public	15 000$	Tig x50 	00:00							
+	2	Délit mineur	Vol de véhicule	2 250$	-	00:10							
+	2	Délit mineur	Vente d'objet illégaux	5 500$	-	00:20							
+	3	Délit majeur	Attaque convoi de fonds (Brinks, Convoi LSPD/BCSO)	28 500$	Saisie armes et munitions + argent 	00:45							
+	3	Délit majeur	Sollicitation ou incitation à la prostitution	9 000$	- 	01:00							
+	3	Délit majeur	Discrimination	7 200$	Dédomagement	00:20							
+	3	Délit majeur	Chantage	3 150$	-	00:15							
+	3	Délit majeur	Entrave aux Services Publics / SPAM bipeur	22 500$	-	00:20							
+	3	Délit majeur	Agression sur agent (employé d'état ou police)	18 500$	Saisie armes	01:00							
+	3	Délit majeur	Outrage à employé d'état (trash abusif : uniquement) 	13 500$	-	00:45							
+	3	Délit majeur	Menaces de Mort et ou Menaces graves	12 500$	-	00:45							
+	3	Délit majeur	Harcèlement	9 350$	-	00:20							
+	3	Délit majeur	Homicide involontaire	12 500$	Suspension permis 48h si véhicule	00:25							
+	3	Délit majeur	Association de malfaiteurs	4 500$	Dossier Metropolitan	00:30							
+	3	Délit majeur	Port de Kevlar / Gilet par Balle	5 000$	Dossier Metropolitan	00:15							
+	3	Délit majeur	Blanchiment	100$	x $ blanchi	00:15							
+	3	Délit majeur	Braquage d'armurerie	17 200$	Saisie armes et munitions + argent 	00:25							
+	3	Délit majeur	Braquage à main armée bijouterie	29 000$	Saisie armes et munitions + argent 	00:30							
+	3	Délit majeur	Braquage de banque centrale (Pacifique banque) 	180 000$	Saisie du butin + Retrait PPA	01:00							
+	3	Délit majeur	Braquage fleeca	15 000$	Saisie armes et munitions + argent 	00:25	$5 000	Saisie de l'argent (Pas de x qté)	01:00	$5 000	Saisie argent (Pas de x qté)	01:00	
+	3	Délit majeur	Achat d'armes illégales	12 500$	x qté + saisie	00:30							
+	3	Délit majeur	Divulgation d'informations confidentielles	2 000$	-	00:30	$1 500		03:00	$1 500		03:00	
+	3	Délit majeur	Diffamation	3 500$	Dédomagement	00:15							
+	3	Délit majeur	Entreposage d'armes illégales (≥ 3)	9 000$	x qté	00:30							
+	3	Délit majeur	Escroquerie à l'entreprise	9 000$	Restitution à hauteur du préjudice	00:30	$10 000	Commission disciplinaire	06:00	$10 000	Commission disciplinaire	06:00	
+	3	Délit majeur	Extorsion/Escroquerie	8 500$	Saisie biens/argent	00:30		Expulsion du territoire			Expulsion du territoire		
+	3	Délit majeur	Faux témoignage	19 000$	-	00:30	$380	"x qté
+> 75 unites ou preuve du trafic"	02:30	$225	"x qté 
+> 75 unités ou preuve du trafic"	02:30	
+	3	Délit majeur	Intimidation/Chantage envers Magistrat	35 000$	-	00:30							
+	3	Délit majeur	Menace et/ou intimidation envers un représentant de l'état	7 500$	-	00:20	$60	x qté	00:30	$60	x qté	00:30	
+	3	Délit majeur	Non respect des consignes de l'État d'Urgence	4 500$	-	00:30	$15 000		06:00	$15 000		06:00	
+	3	Délit majeur	Non respect d'une décision de justice d'un citoyen	9 000$	-	00:30	$2	x $ blanchi	12	$2	x $ blanchi	12:00	
+	3	Délit majeur	Non respect d'une décision de justice d'une entreprise	18 000$	-	00:30	$30 000	"Saisie du butin
+Retrait PPA"	18	$30 000	"Saisie du butin
+Retrait PPA"	15:00	
+	3	Délit majeur	Non respect des normes incendie (entreprise)	18 000$	1 000$ par personne présente dans le bâtiment	00:00	$20 000		10	$15 000		08:00	
+	3	Délit majeur	Obstruction à la Justice	35 000$	-	00:30	$8 000		6	$10 000		06:00	
+	3	Délit majeur	Organisation d'insolvabilité	13 500$	Saisies des biens et de l'argent dissimulés	00:00	$7 500		8	$7 500		06:00	
+	3	Délit majeur	Outrage à magistrat	20 000$	-	00:30	$750		00:30	$750	Restitution	00:30	
+	3	Délit majeur	Parjure	55 000$	-	00:30	$10 000		24	$10 000		18:00	
+	3	Délit majeur	Participation à une fusillade (par personne)	13 500$	Confiscation de l'arme + retrait du PPA	00:30	$10 000	x Nb otages	10	$10 000	x Nb otages	08:00	
+	3	Délit majeur	Possession de ADP de Combat	25 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Mitraillette (MP5)	125 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Mitraillette MKII (MP5 MKII)	125 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Mitraillette d'Assaut (P90) 	125 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Mitrailette lègère (Skorpion)	125 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Pistolet Mitrailleur (UZI)	125 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Sulfateuse Gusenberg (Thompson)	130 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Carabine (M4A1)	235 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Carabine MKII (M4A4)	230 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Carabine Spéciale (G36)	230 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil amélioré (Tar-21)	235 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil compact (AK-U)	225 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil d'assaut (AK-47)	235 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil d'assaut Bullpup (Famas)	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil d'assaut Bullpup Mk II (Famas MKII)	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil d'assaut Mk II (AK-47 MKII)	350 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil militaire 	300 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Mousquet 	15 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil à canon scié (Sawed Off)	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil à double canon 	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil à pompe 	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil à pompe Mk II	300 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	"Possession de Fusil à pompe d'assaut	"	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Pistolet automatique (Tec9) 	200 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	"Possession de Fusil à pompe de combat		"	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Fusil à pompe lourd	250 000$	Saisie + retrait PPA	00:25							
+	3	Délit majeur	Possession de Gilet par balle	25 000$	Saisie	00:25							
+	3	Délit majeur	Possession d’argent liquide > 10000$ sans justificatifs	2$	x qté ($) + Saisie	00:10	$7 500	x Nb de personnes	8	$10 000	x Nb personnes	08:00	
+	3	Délit majeur	Prise d'otage sur un civil	7 500$	X Par otage	00:15							
+	3	Délit majeur	Rapport de vol non enregistré	9 000$	Suspension du permis aérien + Confiscation de l'engin pendant 48h	00:10							
+	3	Délit majeur	Recel de malfaiteurs	1 800$	-	00:30							
+	3	Délit majeur	Témoignage ou fausse déclaration dans le but de réaliser un profit	18 500$	-	00:30							
+	3	Délit majeur	Trafic de drogue dure x50 minimum	12 000$	-	00:30							
+	3	Délit majeur	Acte / Trafic illégale sur twitter 	18 000$	Saisie des armes + Retiens la possession	00:30							
+	3	Délit majeur	Usage de Faux	2 700$	Saisie des documents	00:30							
+	3	Délit majeur	Utilisation de sa fonction à des fins personnelles	7 200$	-	00:30							
+	3	Délit majeur	Usurpation d'identité	12 700$	Saisie des documents	00:30							
+	3	Délit majeur	Usurpation d’uniforme fonction privée	45 000$	-	00:30							
+	3	Délit majeur	Vol à main armée 	5 000$	Confiscation de l'arme + Retrait du PPA + Restitution du vol	00:30							
+	3	Délit majeur	Non respect des licences et des papiers officiels	10 000$		00:30							
+	3	Délit majeur	Non présentation du contrat de travail	2 500$		00:30							
+	3	Délit majeur	Devoir de surveillance et responsabilité du donneur d'ordre	13 500$	Renvoi de l'entreprise	00:30							
+	3	Délit majeur	Possession de Cocktail molotov (par x qty)	15 000$	Saisie + retrait PPA	00:30							
+	3	Délit majeur	Possession de charge thermite (par x qty)	15 000$	Saisie + retrait PPA	00:30							
+	3	Délit majeur	Possession de Grenade lacrymogène (par x qty)	15 000$	Saisie + retrait PPA	00:30							
+	3	Délit majeur	Usurpation d’uniforme fonction public	67 500$	-	00:30							
+	3	Délit majeur	Incendie criminel	10 500$	Suivi psychologique obligatoire	00:30							
+	3	Délit majeur	Destruction/Cacher une preuve	55 000$	-	00:30							
+	4	Crime	Acte lié au terrorisme	150 000$	-	01:00							
+	4	Crime	Assassinat (Meurtre prémédité) (MORT RP UNIQUEMENT)	225 000$	Saisie compte en banque  + Retrait PPA	01:00							
+	4	Crime	Pratique illégale de la médecine	9 000$	Commission disciplinaire	00:30							
+	4	Crime	Vente illégale d'armes	125 000$	Confiscation des armes + saisie de la monnaie d'échange	00:30							
+	4	Crime	Meurtre (MORT RP UNIQUEMENT)	100 800$	Homicide volontaire non prémédité + Retrait PPA	01:00							
+	4	Crime	Procurer frauduleusement à un tiers un document délivré par une administration publique	23 500$	-	00:30							
+	4	Crime	Atteinte à la sécurité intérieure	125 000$	-	00:30							
+	4	Crime	Cavale	30 000$	-	01:00							
+	4	Crime	Corruption	225 000$	-	00:30							
+	4	Crime	Détournement de fonds	60 000$	-	00:30	$150	x qté> 75 unites ou preuve du trafic	01:00	$150	"x qté 
+> 75 unités ou preuve du trafic"	01:00	
+	4	Crime	Espionnage	17 000$	-	00:30							
+	4	Crime	Evasion/Organisation d’Evasion  (Prison ou convoi)	135 000$	-	00:30							
+	4	Crime	Fraude Fiscale	90 000$	-	00:30							
+	4	Crime	Meurtre sur représentant de l'état (MORT RP UNIQUEMENT)	300 000$	-	00:30							
+	4	Crime	Tentative de Meurtre sur représentant de l'état (COMA)	130 000$	-	00:30							
+	4	Crime	Tentative de Meurtre (COMA)	110 800$	-	00:30							
+	4	Crime	Participation et/ou assistance à un acte ayant comme but de commettre un crime contre l'état	355 000$	-	00:30							
+	4	Crime	Possession de Grenade	135 000$	Saisie + retrait PPA	00:30							
+	4	Crime	Possession de Bombe collante  	135 000$	Saisie + retrait PPA	00:30							
+	4	Crime	Prise d'otage sur représentant de l'état	18 000$	Possibilité d'interdire la suppression du casier	00:30							
+	4	Crime	Séquestration	15 500$	x Nb personnes	00:30							
+	4	Crime	Terrorisme	145 000$	"Saisie compte et biens/propriétés
+Peine capitale possible"	01:00							
+	4	Crime	Trafic d'organe	180 000$	-	00:45							
+	4	Crime	Trahison	225 000$	-	01:00							
+	4	Crime	Trafic d’armes à grande échelle 	27 000$	Saisie armes	01:00							
+	4	Crime	Torture	50 000$	x Nb personnes	00:30							
+	4	Crime	Violation d'un ordre/décret gouvernemental 	40 500$	-	01:00							
+	4	Crime	Atteintes aux intérêts fondamentaux de la nation	306 000$	-	01:00							
+	4	Crime	Atteintes aux institution de la nation  	180 000$	-	01:00							
+	4	Crime	Absence de documents légaux d'une entreprise	63 000$	 Possible licenciement de dirigeants, saisie de l'entreprise 	01:00							
+	4	Crime	Travail dissimulé	45 000$	Licenciement, saisie éventuelle de l'entreprise 	01:00							
+	4	Crime	Travail dissimulé par dissimulation d'emploie salarié	45 000$	Possible  licenciement, saisie possible de l'entreprise 	01:00							
+	4	Crime	Travail dissimulé par dissimulation d'activité	58 500$	Possible licenciement, saisie possible de l'entreprise 	01:00							
+	4	Crime	Violation du Secret Profesionnel	50 500$	Commission disciplinaire	00:30							

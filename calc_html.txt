@@ -1,0 +1,297 @@
+<div class="calc-categories" style="max-height: 600px; overflow-y: auto;">
+    <div class="calc-group">
+        <h4 class="calc-group-title">Contravention</h4>
+        <label class="calc-item"><input type="checkbox" value="Stationnement d'un bateau sur la côte hors d'un port" data-amende="450" data-prison="0"> Stationnement d'un bateau sur la côte hors d'un port ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Manoeuvres dangereuses aux égards des circonstances" data-amende="90" data-prison="0"> Manoeuvres dangereuses aux égards des circonstances ($90)</label>
+        <label class="calc-item"><input type="checkbox" value="Navigation à moins de 100m des côtes" data-amende="90" data-prison="0"> Navigation à moins de 100m des côtes ($90)</label>
+        <label class="calc-item"><input type="checkbox" value="Navigation à plus de 30 Km/h dans une voie portuaire" data-amende="90" data-prison="0"> Navigation à plus de 30 Km/h dans une voie portuaire ($90)</label>
+        <label class="calc-item"><input type="checkbox" value="Navigation à l'approche d'un port en dehors d'une voie portuaire" data-amende="450" data-prison="0"> Navigation à l'approche d'un port en dehors d'une voie portuaire ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Non-respect d'une distance de sécurité" data-amende="900" data-prison="0"> Non-respect d'une distance de sécurité ($900)</label>
+        <label class="calc-item"><input type="checkbox" value="Mise en circulation d'un véhicule maritime sans assurance adéquate" data-amende="450" data-prison="0"> Mise en circulation d'un véhicule maritime sans assurance adéquate ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Véhicule circulant sur la voie maritime non muni de plaques d'immatriculation" data-amende="1800" data-prison="0"> Véhicule circulant sur la voie maritime non muni de plaques d'immatriculation ($1800)</label>
+        <label class="calc-item"><input type="checkbox" value="Véhicule circulant sur la voie maritime munies de plaques d'immatriculation trafiquées" data-amende="2700" data-prison="0"> Véhicule circulant sur la voie maritime munies de plaques d'immatriculation trafiquées ($2700)</label>
+        <label class="calc-item"><input type="checkbox" value="Refus d'obtempérer à une injonction des pouvoirs publics" data-amende="1350" data-prison="0"> Refus d'obtempérer à une injonction des pouvoirs publics ($1350)</label>
+        <label class="calc-item"><input type="checkbox" value="Atterrissage d'un avion ou hélicoptère sur un site inapproprié à son utilisation" data-amende="800" data-prison="0"> Atterrissage d'un avion ou hélicoptère sur un site inapproprié à son utilisation ($800)</label>
+        <label class="calc-item"><input type="checkbox" value="Survol d'un avion ou hélicoptère sur un site inapproprié à son utilisation" data-amende="1350" data-prison="0"> Survol d'un avion ou hélicoptère sur un site inapproprié à son utilisation ($1350)</label>
+        <label class="calc-item"><input type="checkbox" value="Non signalisation sur la fréquence de signalisation aérienne" data-amende="225" data-prison="0"> Non signalisation sur la fréquence de signalisation aérienne ($225)</label>
+        <label class="calc-item"><input type="checkbox" value="Mise en circulation d'un véhicule aerien sans assurance adéquate" data-amende="0" data-prison="0"> Mise en circulation d'un véhicule aerien sans assurance adéquate</label>
+        <label class="calc-item"><input type="checkbox" value="Véhicule circulant sur la voie aérienne non muni de plaques d'immatriculation" data-amende="270" data-prison="0"> Véhicule circulant sur la voie aérienne non muni de plaques d'immatriculation ($270)</label>
+        <label class="calc-item"><input type="checkbox" value="Véhicule circulant sur la voie aérienne munies de plaques d'immatriculation trafiquées" data-amende="270" data-prison="0"> Véhicule circulant sur la voie aérienne munies de plaques d'immatriculation trafiquées ($270)</label>
+        <label class="calc-item"><input type="checkbox" value="Appareil aérien non enregistré" data-amende="1350" data-prison="0"> Appareil aérien non enregistré ($1350)</label>
+        <label class="calc-item"><input type="checkbox" value="Atteinte à la pudeur" data-amende="450" data-prison="0"> Atteinte à la pudeur ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Bateau non enregistré" data-amende="900" data-prison="0"> Bateau non enregistré ($900)</label>
+        <label class="calc-item"><input type="checkbox" value="Conduite Hors route/hors piste" data-amende="1080" data-prison="0"> Conduite Hors route/hors piste ($1080)</label>
+        <label class="calc-item"><input type="checkbox" value="Circulation zone maritime interdite" data-amende="900" data-prison="0"> Circulation zone maritime interdite ($900)</label>
+        <label class="calc-item"><input type="checkbox" value="Conduite dangereuse (Drift, Wheeling...)" data-amende="900" data-prison="0"> Conduite dangereuse (Drift, Wheeling...) ($900)</label>
+        <label class="calc-item"><input type="checkbox" value="Conduite en contre-sens" data-amende="900" data-prison="0"> Conduite en contre-sens ($900)</label>
+        <label class="calc-item"><input type="checkbox" value="Dissimulation du visage" data-amende="1500" data-prison="0"> Dissimulation du visage ($1500)</label>
+        <label class="calc-item"><input type="checkbox" value="Excès de vitesse 1-10km/h" data-amende="360" data-prison="0"> Excès de vitesse 1-10km/h ($360)</label>
+        <label class="calc-item"><input type="checkbox" value="Excès de vitesse 11-20 km/h 1pt" data-amende="450" data-prison="0"> Excès de vitesse 11-20 km/h 1pt ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Excès de vitesse 21-30 km/h 2pts" data-amende="540" data-prison="0"> Excès de vitesse 21-30 km/h 2pts ($540)</label>
+        <label class="calc-item"><input type="checkbox" value="Excès de vitesse 31-50 km/h 3pts" data-amende="630" data-prison="0"> Excès de vitesse 31-50 km/h 3pts ($630)</label>
+        <label class="calc-item"><input type="checkbox" value="Excès de vitesse 51+ km/h retrait" data-amende="810" data-prison="0"> Excès de vitesse 51+ km/h retrait ($810)</label>
+        <label class="calc-item"><input type="checkbox" value="Franchissement d'une ligne continue" data-amende="450" data-prison="0"> Franchissement d'une ligne continue ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Holster interdit (Sauf PPA)" data-amende="1350" data-prison="0"> Holster interdit (Sauf PPA) ($1350)</label>
+        <label class="calc-item"><input type="checkbox" value="Insulte envers un civil" data-amende="270" data-prison="0"> Insulte envers un civil ($270)</label>
+        <label class="calc-item"><input type="checkbox" value="Ivresse ou consommation de stupéfiants sur la voie publique" data-amende="2700" data-prison="0"> Ivresse ou consommation de stupéfiants sur la voie publique ($2700)</label>
+        <label class="calc-item"><input type="checkbox" value="Mendicité en lieu public" data-amende="1350" data-prison="0"> Mendicité en lieu public ($1350)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect des distances de sécurité (1.5 m)" data-amende="135" data-prison="0"> Non respect des distances de sécurité (1.5 m) ($135)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect d'un feu rouge (Stop & GO)" data-amende="360" data-prison="0"> Non respect d'un feu rouge (Stop & GO) ($360)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect d'un véhicule prioritaire" data-amende="6300" data-prison="0"> Non respect d'un véhicule prioritaire ($6300)</label>
+        <label class="calc-item"><input type="checkbox" value="Non présentation des papiers d'identité" data-amende="450" data-prison="0"> Non présentation des papiers d'identité ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Occupation illégale de l'espace public" data-amende="720" data-prison="0"> Occupation illégale de l'espace public ($720)</label>
+        <label class="calc-item"><input type="checkbox" value="Participation à une manifestation illégale" data-amende="1350" data-prison="0"> Participation à une manifestation illégale ($1350)</label>
+        <label class="calc-item"><input type="checkbox" value="Pêche sur un lieu illégal" data-amende="900" data-prison="0"> Pêche sur un lieu illégal ($900)</label>
+        <label class="calc-item"><input type="checkbox" value="Présence piétonne sur une autoroute" data-amende="1800" data-prison="0"> Présence piétonne sur une autoroute ($1800)</label>
+        <label class="calc-item"><input type="checkbox" value="Rappel à la loi Grave" data-amende="13500" data-prison="0"> Rappel à la loi Grave ($13500)</label>
+        <label class="calc-item"><input type="checkbox" value="Rapport de vol non enregistré" data-amende="2700" data-prison="0"> Rapport de vol non enregistré ($2700)</label>
+        <label class="calc-item"><input type="checkbox" value="Stationnement Génant" data-amende="570" data-prison="0"> Stationnement Génant ($570)</label>
+        <label class="calc-item"><input type="checkbox" value="Stationnement Interdit" data-amende="2700" data-prison="0"> Stationnement Interdit ($2700)</label>
+        <label class="calc-item"><input type="checkbox" value="Tapage nocturne" data-amende="360" data-prison="0"> Tapage nocturne ($360)</label>
+        <label class="calc-item"><input type="checkbox" value="Usage abusif du Klaxon" data-amende="450" data-prison="0"> Usage abusif du Klaxon ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Véhicule Dégradé" data-amende="450" data-prison="0"> Véhicule Dégradé ($450)</label>
+        <label class="calc-item"><input type="checkbox" value="Conduite avec faculté affaiblies" data-amende="2250" data-prison="0"> Conduite avec faculté affaiblies ($2250)</label>
+        <label class="calc-item"><input type="checkbox" value="Faux Appels (Canulars)" data-amende="42000" data-prison="0"> Faux Appels (Canulars) ($42000)</label>
+    </div>
+    <div class="calc-group">
+        <h4 class="calc-group-title">Délit mineur</h4>
+        <label class="calc-item"><input type="checkbox" value="Agression sur citoyen / maltraitance animal" data-amende="10500" data-prison="30"> Agression sur citoyen / maltraitance animal ($10500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Survol de zone restreintes classé zones d'exclusions aériennes" data-amende="40500" data-prison="10"> Survol de zone restreintes classé zones d'exclusions aériennes ($40500, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de poisson illégaux (tortues, requins et espadons)" data-amende="350" data-prison="10"> Possession de poisson illégaux (tortues, requins et espadons) ($350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Atterrissage d'un avion ou hélicoptère sur un site gouvernemental" data-amende="27000" data-prison="10"> Atterrissage d'un avion ou hélicoptère sur un site gouvernemental ($27000, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Survol d'un avion ou hélicoptère au dessus d'un site gouvernemental" data-amende="10500" data-prison="10"> Survol d'un avion ou hélicoptère au dessus d'un site gouvernemental ($10500, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Outrage à agent (de base)" data-amende="5000" data-prison="10"> Outrage à agent (de base) ($5000, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Appel abusif service publics" data-amende="5000" data-prison="15"> Appel abusif service publics ($5000, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Arme blanche sortie en public" data-amende="1350" data-prison="10"> Arme blanche sortie en public ($1350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braconnage - Chasse" data-amende="350" data-prison="10"> Braconnage - Chasse ($350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braquage de Citoyens" data-amende="5600" data-prison="20"> Braquage de Citoyens ($5600, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braquage de Supérette" data-amende="3250" data-prison="20"> Braquage de Supérette ($3250, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braquage d'ATM / Piratage d'ATM" data-amende="5250" data-prison="15"> Braquage d'ATM / Piratage d'ATM ($5250, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Cambriolage" data-amende="1350" data-prison="15"> Cambriolage ($1350, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Conduite sans permis" data-amende="1350" data-prison="15"> Conduite sans permis ($1350, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Conduite d'un véhicule volé" data-amende="2350" data-prison="15"> Conduite d'un véhicule volé ($2350, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Conduite sous interdiction de permis" data-amende="2070" data-prison="15"> Conduite sous interdiction de permis ($2070, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Consommation de cannabis sur la voie publique" data-amende="720" data-prison="15"> Consommation de cannabis sur la voie publique ($720, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Consommation de cocaïne sur la voie publique" data-amende="1350" data-prison="10"> Consommation de cocaïne sur la voie publique ($1350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Consomation de méthamphétamine sur la voie publique" data-amende="1350" data-prison="10"> Consomation de méthamphétamine sur la voie publique ($1350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Course de rue illegale (par conducteur)" data-amende="1350" data-prison="10"> Course de rue illegale (par conducteur) ($1350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Dégradation de biens privés" data-amende="2900" data-prison="10"> Dégradation de biens privés ($2900, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Dégradation de biens publics" data-amende="1900" data-prison="10"> Dégradation de biens publics ($1900, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Dégradation de matériels publics (Ex: Veh LSPD)" data-amende="5500" data-prison="10"> Dégradation de matériels publics (Ex: Veh LSPD) ($5500, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Délit de fuite" data-amende="3350" data-prison="15"> Délit de fuite ($3350, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Dissimulation du visage sur la voie publique" data-amende="1350" data-prison="10"> Dissimulation du visage sur la voie publique ($1350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Entrave à une opération/enquête (police/justice)" data-amende="3500" data-prison="30"> Entrave à une opération/enquête (police/justice) ($3500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Exhibition d’armes" data-amende="3350" data-prison="15"> Exhibition d’armes ($3350, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Exhibition d’armes lourdes" data-amende="9500" data-prison="30"> Exhibition d’armes lourdes ($9500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Go fast" data-amende="2250" data-prison="20"> Go fast ($2250, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Manifestation illégale (par personne)" data-amende="3600" data-prison="15"> Manifestation illégale (par personne) ($3600, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Organisation d'une manifestation illégale (par personne)" data-amende="14500" data-prison="10"> Organisation d'une manifestation illégale (par personne) ($14500, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Intrusion dans un bâtiment officiel de l'état" data-amende="45000" data-prison="30"> Intrusion dans un bâtiment officiel de l'état ($45000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Menace et/ou intimidation envers un civil" data-amende="9000" data-prison="15"> Menace et/ou intimidation envers un civil ($9000, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Mise en danger de la vie d’autrui" data-amende="5800" data-prison="15"> Mise en danger de la vie d’autrui ($5800, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non assistance a personne en danger" data-amende="4050" data-prison="20"> Non assistance a personne en danger ($4050, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non dénonciation d’un crime" data-amende="2700" data-prison="15"> Non dénonciation d’un crime ($2700, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non présentation à une convocation de police" data-amende="6750" data-prison="20"> Non présentation à une convocation de police ($6750, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect de l'assignation géographique" data-amende="18000" data-prison="10"> Non respect de l'assignation géographique ($18000, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect du code du travail" data-amende="7200" data-prison="10"> Non respect du code du travail ($7200, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect du contrôle judiciaire" data-amende="5700" data-prison="10"> Non respect du contrôle judiciaire ($5700, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Obstruction de/ Entrave à l'espace maritime" data-amende="3600" data-prison="20"> Obstruction de/ Entrave à l'espace maritime ($3600, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Obstruction de/ Entrave à l'espace aérien" data-amende="3600" data-prison="15"> Obstruction de/ Entrave à l'espace aérien ($3600, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Pêche illégal (Espèce Protégée)" data-amende="3600" data-prison="10"> Pêche illégal (Espèce Protégée) ($3600, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession boîtier de piratage" data-amende="970" data-prison="10"> Possession boîtier de piratage ($970, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de carte fleeca / banque" data-amende="2700" data-prison="25"> Possession de carte fleeca / banque ($2700, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation non-sportive de Batte de baseball (pas possession)" data-amende="1800" data-prison="10"> Utilisation non-sportive de Batte de baseball (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation non-sportive de Club de Golf (pas possession)" data-amende="1800" data-prison="10"> Utilisation non-sportive de Club de Golf (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Clé Anglaise (pas possession)" data-amende="1800" data-prison="10"> Utilisation Illégale de Clé Anglaise (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Marteau (pas possession)" data-amende="1800" data-prison="10"> Utilisation Illégale de Marteau (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Karambit (pas possession)" data-amende="1800" data-prison="10"> Utilisation Illégale de Karambit (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Pied de biche (pas possession)" data-amende="1800" data-prison="10"> Utilisation Illégale de Pied de biche (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation non-sportive de Queue de billard (pas possession)" data-amende="1800" data-prison="10"> Utilisation non-sportive de Queue de billard (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Poing américain (pas possession)" data-amende="1800" data-prison="10"> Utilisation Illégale de Poing américain (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Couteau (pas possession)" data-amende="1800" data-prison="10"> Utilisation Illégale de Couteau (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Cran d'arrêt (pas possession)" data-amende="1800" data-prison="10"> Utilisation Illégale de Cran d'arrêt (pas possession) ($1800, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Katana (pas possession)" data-amende="3150" data-prison="15"> Utilisation Illégale de Katana (pas possession) ($3150, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Machette (pas possession)" data-amende="3150" data-prison="15"> Utilisation Illégale de Machette (pas possession) ($3150, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale tesson de bouteille (pas possession)" data-amende="3150" data-prison="15"> Utilisation Illégale tesson de bouteille (pas possession) ($3150, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Hachette (pas possession)" data-amende="3150" data-prison="15"> Utilisation Illégale de Hachette (pas possession) ($3150, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Hache de guerre" data-amende="3150" data-prison="15"> Possession de Hache de guerre ($3150, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation Illégale de Dague antique (pas possession)" data-amende="3150" data-prison="15"> Utilisation Illégale de Dague antique (pas possession) ($3150, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet" data-amende="15000" data-prison="20"> Possession de Pistolet ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet Calibre 50 (Deagle)" data-amende="15000" data-prison="20"> Possession de Pistolet Calibre 50 (Deagle) ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet MKII (Berreta)" data-amende="15000" data-prison="20"> Possession de Pistolet MKII (Berreta) ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet combat (Glock)" data-amende="15000" data-prison="20"> Possession de Pistolet combat (Glock) ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet en céramique" data-amende="15000" data-prison="20"> Possession de Pistolet en céramique ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet Lourd" data-amende="15000" data-prison="20"> Possession de Pistolet Lourd ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet Paralysant (Taser)" data-amende="13500" data-prison="20"> Possession de Pistolet Paralysant (Taser) ($13500, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet perforant" data-amende="15000" data-prison="20"> Possession de Pistolet perforant ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pétoire (SNS)" data-amende="11700" data-prison="20"> Possession de Pétoire (SNS) ($11700, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de SNSPico (SNS)" data-amende="11700" data-prison="20"> Possession de SNSPico (SNS) ($11700, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pétoire MKII (Pétoire)" data-amende="15000" data-prison="20"> Possession de Pétoire MKII (Pétoire) ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Revolver Lourd" data-amende="15000" data-prison="20"> Possession de Revolver Lourd ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Revolver Lourd MKII" data-amende="15000" data-prison="20"> Possession de Revolver Lourd MKII ($15000, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Munition de pistolet" data-amende="100" data-prison="10"> Possession de Munition de pistolet ($100, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de  Munition de SMG" data-amende="230" data-prison="10"> Possession de  Munition de SMG ($230, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de  Munition de fusil à pompe" data-amende="300" data-prison="10"> Possession de  Munition de fusil à pompe ($300, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de  Munitions fusil d'assaut" data-amende="300" data-prison="10"> Possession de  Munitions fusil d'assaut ($300, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de  Munitions machine gun" data-amende="250" data-prison="10"> Possession de  Munitions machine gun ($250, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de kit de fabrication de meth" data-amende="5000" data-prison="10"> Possession de kit de fabrication de meth ($5000, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Gaz BZ" data-amende="1250" data-prison="10"> Possession de Gaz BZ ($1250, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Kevlar / Gilet par Balle" data-amende="7000" data-prison="10"> Possession de Kevlar / Gilet par Balle ($7000, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Poudre à canon" data-amende="120" data-prison="10"> Possession de Poudre à canon ($120, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Cannabis  ≥ 5 Kg" data-amende="32" data-prison="10"> Possession de Cannabis  ≥ 5 Kg ($32, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Cocaïne  ≥ 1 Kg" data-amende="45" data-prison="10"> Possession de Cocaïne  ≥ 1 Kg ($45, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Crack ≥ 1 Kg" data-amende="90" data-prison="10"> Possession de Crack ≥ 1 Kg ($90, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession d'Ecstasy ≥ 1 Kg" data-amende="90" data-prison="10"> Possession d'Ecstasy ≥ 1 Kg ($90, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession d'Opium ≥ 5 Kg" data-amende="90" data-prison="10"> Possession d'Opium ≥ 5 Kg ($90, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fentanyl ≥ 2 Kg" data-amende="90" data-prison="10"> Possession de Fentanyl ≥ 2 Kg ($90, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession d'Héroïne  ≥ 2 Kg" data-amende="72" data-prison="10"> Possession d'Héroïne  ≥ 2 Kg ($72, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession d'Acide (tout types) ≥ 25 Kg" data-amende="41" data-prison="10"> Possession d'Acide (tout types) ≥ 25 Kg ($41, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de méthamphétamine ≥ 1 Kg" data-amende="45" data-prison="10"> Possession de méthamphétamine ≥ 1 Kg ($45, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Feuilles de salvia ≥ 10 Kg" data-amende="20" data-prison="10"> Possession de Feuilles de salvia ≥ 10 Kg ($20, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vente de Drogue" data-amende="3750" data-prison="10"> Vente de Drogue ($3750, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession ou prise en flagrant délit de crochetage" data-amende="1225" data-prison="10"> Possession ou prise en flagrant délit de crochetage ($1225, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Recel de véhicule volé" data-amende="2025" data-prison="10"> Recel de véhicule volé ($2025, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Recel de vol (objets + armes légales)" data-amende="150" data-prison="10"> Recel de vol (objets + armes légales) ($150, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Refus d’obtempérer" data-amende="9000" data-prison="15"> Refus d’obtempérer ($9000, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Refus de comparaitre" data-amende="18000" data-prison="30"> Refus de comparaitre ($18000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Refus de se soumettre à une injonction" data-amende="5080" data-prison="60"> Refus de se soumettre à une injonction ($5080, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Survol de zone interdite" data-amende="90000" data-prison="15"> Survol de zone interdite ($90000, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Trafic de Stupéfiant" data-amende="16000" data-prison="10"> Trafic de Stupéfiant ($16000, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Troubles à l’ordre public" data-amende="13500" data-prison="15"> Troubles à l’ordre public ($13500, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Usurpation d'identité / fonction" data-amende="22500" data-prison="20"> Usurpation d'identité / fonction ($22500, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Violation de propriété privée (Entreprise,logement ...)" data-amende="10500" data-prison="15"> Violation de propriété privée (Entreprise,logement ...) ($10500, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vol" data-amende="1350" data-prison="15"> Vol ($1350, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vol d'équipements d'entreprise" data-amende="450" data-prison="10"> Vol d'équipements d'entreprise ($450, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vol de produits d'entreprise" data-amende="45" data-prison="10"> Vol de produits d'entreprise ($45, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vol de véhicule entreprise" data-amende="1350" data-prison="10"> Vol de véhicule entreprise ($1350, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vol de véhicule service public" data-amende="15000" data-prison="0"> Vol de véhicule service public ($15000)</label>
+        <label class="calc-item"><input type="checkbox" value="Vol de véhicule" data-amende="2250" data-prison="10"> Vol de véhicule ($2250, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vente d'objet illégaux" data-amende="5500" data-prison="20"> Vente d'objet illégaux ($5500, 20 mois)</label>
+    </div>
+    <div class="calc-group">
+        <h4 class="calc-group-title">$2 000</h4>
+        <label class="calc-item"><input type="checkbox" value="Bracelet électronique" data-amende="0" data-prison="0"> Bracelet électronique</label>
+    </div>
+    <div class="calc-group">
+        <h4 class="calc-group-title">Délit majeur</h4>
+        <label class="calc-item"><input type="checkbox" value="Attaque convoi de fonds (Brinks, Convoi LSPD/BCSO)" data-amende="28500" data-prison="45"> Attaque convoi de fonds (Brinks, Convoi LSPD/BCSO) ($28500, 45 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Sollicitation ou incitation à la prostitution" data-amende="9000" data-prison="60"> Sollicitation ou incitation à la prostitution ($9000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Discrimination" data-amende="7200" data-prison="20"> Discrimination ($7200, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Chantage" data-amende="3150" data-prison="15"> Chantage ($3150, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Entrave aux Services Publics / SPAM bipeur" data-amende="22500" data-prison="20"> Entrave aux Services Publics / SPAM bipeur ($22500, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Agression sur agent (employé d'état ou police)" data-amende="18500" data-prison="60"> Agression sur agent (employé d'état ou police) ($18500, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Outrage à employé d'état (trash abusif : uniquement)" data-amende="13500" data-prison="45"> Outrage à employé d'état (trash abusif : uniquement) ($13500, 45 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Menaces de Mort et ou Menaces graves" data-amende="12500" data-prison="45"> Menaces de Mort et ou Menaces graves ($12500, 45 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Harcèlement" data-amende="9350" data-prison="20"> Harcèlement ($9350, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Homicide involontaire" data-amende="12500" data-prison="25"> Homicide involontaire ($12500, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Association de malfaiteurs" data-amende="4500" data-prison="30"> Association de malfaiteurs ($4500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Port de Kevlar / Gilet par Balle" data-amende="5000" data-prison="15"> Port de Kevlar / Gilet par Balle ($5000, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Blanchiment" data-amende="100" data-prison="15"> Blanchiment ($100, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braquage d'armurerie" data-amende="17200" data-prison="25"> Braquage d'armurerie ($17200, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braquage à main armée bijouterie" data-amende="29000" data-prison="30"> Braquage à main armée bijouterie ($29000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braquage de banque centrale (Pacifique banque)" data-amende="180000" data-prison="60"> Braquage de banque centrale (Pacifique banque) ($180000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Braquage fleeca" data-amende="15000" data-prison="25"> Braquage fleeca ($15000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Achat d'armes illégales" data-amende="12500" data-prison="30"> Achat d'armes illégales ($12500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Divulgation d'informations confidentielles" data-amende="2000" data-prison="30"> Divulgation d'informations confidentielles ($2000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Diffamation" data-amende="3500" data-prison="15"> Diffamation ($3500, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Entreposage d'armes illégales (≥ 3)" data-amende="9000" data-prison="30"> Entreposage d'armes illégales (≥ 3) ($9000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Escroquerie à l'entreprise" data-amende="9000" data-prison="30"> Escroquerie à l'entreprise ($9000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Extorsion/Escroquerie" data-amende="8500" data-prison="30"> Extorsion/Escroquerie ($8500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Faux témoignage" data-amende="19000" data-prison="30"> Faux témoignage ($19000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Intimidation/Chantage envers Magistrat" data-amende="35000" data-prison="30"> Intimidation/Chantage envers Magistrat ($35000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Menace et/ou intimidation envers un représentant de l'état" data-amende="7500" data-prison="20"> Menace et/ou intimidation envers un représentant de l'état ($7500, 20 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect des consignes de l'État d'Urgence" data-amende="4500" data-prison="30"> Non respect des consignes de l'État d'Urgence ($4500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect d'une décision de justice d'un citoyen" data-amende="9000" data-prison="30"> Non respect d'une décision de justice d'un citoyen ($9000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect d'une décision de justice d'une entreprise" data-amende="18000" data-prison="30"> Non respect d'une décision de justice d'une entreprise ($18000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect des normes incendie (entreprise)" data-amende="18000" data-prison="0"> Non respect des normes incendie (entreprise) ($18000)</label>
+        <label class="calc-item"><input type="checkbox" value="Obstruction à la Justice" data-amende="35000" data-prison="30"> Obstruction à la Justice ($35000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Organisation d'insolvabilité" data-amende="13500" data-prison="0"> Organisation d'insolvabilité ($13500)</label>
+        <label class="calc-item"><input type="checkbox" value="Outrage à magistrat" data-amende="20000" data-prison="30"> Outrage à magistrat ($20000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Parjure" data-amende="55000" data-prison="30"> Parjure ($55000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Participation à une fusillade (par personne)" data-amende="13500" data-prison="30"> Participation à une fusillade (par personne) ($13500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de ADP de Combat" data-amende="25000" data-prison="25"> Possession de ADP de Combat ($25000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Mitraillette (MP5)" data-amende="125000" data-prison="25"> Possession de Mitraillette (MP5) ($125000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Mitraillette MKII (MP5 MKII)" data-amende="125000" data-prison="25"> Possession de Mitraillette MKII (MP5 MKII) ($125000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Mitraillette d'Assaut (P90)" data-amende="125000" data-prison="25"> Possession de Mitraillette d'Assaut (P90) ($125000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Mitrailette lègère (Skorpion)" data-amende="125000" data-prison="25"> Possession de Mitrailette lègère (Skorpion) ($125000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet Mitrailleur (UZI)" data-amende="125000" data-prison="25"> Possession de Pistolet Mitrailleur (UZI) ($125000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Sulfateuse Gusenberg (Thompson)" data-amende="130000" data-prison="25"> Possession de Sulfateuse Gusenberg (Thompson) ($130000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Carabine (M4A1)" data-amende="235000" data-prison="25"> Possession de Carabine (M4A1) ($235000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Carabine MKII (M4A4)" data-amende="230000" data-prison="25"> Possession de Carabine MKII (M4A4) ($230000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Carabine Spéciale (G36)" data-amende="230000" data-prison="25"> Possession de Carabine Spéciale (G36) ($230000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil amélioré (Tar-21)" data-amende="235000" data-prison="25"> Possession de Fusil amélioré (Tar-21) ($235000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil compact (AK-U)" data-amende="225000" data-prison="25"> Possession de Fusil compact (AK-U) ($225000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil d'assaut (AK-47)" data-amende="235000" data-prison="25"> Possession de Fusil d'assaut (AK-47) ($235000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil d'assaut Bullpup (Famas)" data-amende="250000" data-prison="25"> Possession de Fusil d'assaut Bullpup (Famas) ($250000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil d'assaut Bullpup Mk II (Famas MKII)" data-amende="250000" data-prison="25"> Possession de Fusil d'assaut Bullpup Mk II (Famas MKII) ($250000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil d'assaut Mk II (AK-47 MKII)" data-amende="350000" data-prison="25"> Possession de Fusil d'assaut Mk II (AK-47 MKII) ($350000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil militaire" data-amende="300000" data-prison="25"> Possession de Fusil militaire ($300000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Mousquet" data-amende="15000" data-prison="25"> Possession de Mousquet ($15000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil à canon scié (Sawed Off)" data-amende="250000" data-prison="25"> Possession de Fusil à canon scié (Sawed Off) ($250000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil à double canon" data-amende="250000" data-prison="25"> Possession de Fusil à double canon ($250000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil à pompe" data-amende="250000" data-prison="25"> Possession de Fusil à pompe ($250000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil à pompe Mk II" data-amende="300000" data-prison="25"> Possession de Fusil à pompe Mk II ($300000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="&quot;Possession de Fusil à pompe d'assaut" data-amende="0" data-prison="0"> &quot;Possession de Fusil à pompe d'assaut</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Pistolet automatique (Tec9)" data-amende="200000" data-prison="25"> Possession de Pistolet automatique (Tec9) ($200000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="&quot;Possession de Fusil à pompe de combat" data-amende="0" data-prison="0"> &quot;Possession de Fusil à pompe de combat</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Fusil à pompe lourd" data-amende="250000" data-prison="25"> Possession de Fusil à pompe lourd ($250000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Gilet par balle" data-amende="25000" data-prison="25"> Possession de Gilet par balle ($25000, 25 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession d’argent liquide > 10000$ sans justificatifs" data-amende="2" data-prison="10"> Possession d’argent liquide > 10000$ sans justificatifs ($2, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Prise d'otage sur un civil" data-amende="7500" data-prison="15"> Prise d'otage sur un civil ($7500, 15 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Rapport de vol non enregistré" data-amende="9000" data-prison="10"> Rapport de vol non enregistré ($9000, 10 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Recel de malfaiteurs" data-amende="1800" data-prison="30"> Recel de malfaiteurs ($1800, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Témoignage ou fausse déclaration dans le but de réaliser un profit" data-amende="18500" data-prison="30"> Témoignage ou fausse déclaration dans le but de réaliser un profit ($18500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Trafic de drogue dure x50 minimum" data-amende="12000" data-prison="30"> Trafic de drogue dure x50 minimum ($12000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Acte / Trafic illégale sur twitter" data-amende="18000" data-prison="30"> Acte / Trafic illégale sur twitter ($18000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Usage de Faux" data-amende="2700" data-prison="30"> Usage de Faux ($2700, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Utilisation de sa fonction à des fins personnelles" data-amende="7200" data-prison="30"> Utilisation de sa fonction à des fins personnelles ($7200, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Usurpation d'identité" data-amende="12700" data-prison="30"> Usurpation d'identité ($12700, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Usurpation d’uniforme fonction privée" data-amende="45000" data-prison="30"> Usurpation d’uniforme fonction privée ($45000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vol à main armée" data-amende="5000" data-prison="30"> Vol à main armée ($5000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non respect des licences et des papiers officiels" data-amende="10000" data-prison="30"> Non respect des licences et des papiers officiels ($10000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Non présentation du contrat de travail" data-amende="2500" data-prison="30"> Non présentation du contrat de travail ($2500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Devoir de surveillance et responsabilité du donneur d'ordre" data-amende="13500" data-prison="30"> Devoir de surveillance et responsabilité du donneur d'ordre ($13500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Cocktail molotov (par x qty)" data-amende="15000" data-prison="30"> Possession de Cocktail molotov (par x qty) ($15000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de charge thermite (par x qty)" data-amende="15000" data-prison="30"> Possession de charge thermite (par x qty) ($15000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Grenade lacrymogène (par x qty)" data-amende="15000" data-prison="30"> Possession de Grenade lacrymogène (par x qty) ($15000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Usurpation d’uniforme fonction public" data-amende="67500" data-prison="30"> Usurpation d’uniforme fonction public ($67500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Incendie criminel" data-amende="10500" data-prison="30"> Incendie criminel ($10500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Destruction/Cacher une preuve" data-amende="55000" data-prison="30"> Destruction/Cacher une preuve ($55000, 30 mois)</label>
+    </div>
+    <div class="calc-group">
+        <h4 class="calc-group-title">Crime</h4>
+        <label class="calc-item"><input type="checkbox" value="Acte lié au terrorisme" data-amende="150000" data-prison="60"> Acte lié au terrorisme ($150000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Assassinat (Meurtre prémédité) (MORT RP UNIQUEMENT)" data-amende="225000" data-prison="60"> Assassinat (Meurtre prémédité) (MORT RP UNIQUEMENT) ($225000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Pratique illégale de la médecine" data-amende="9000" data-prison="30"> Pratique illégale de la médecine ($9000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Vente illégale d'armes" data-amende="125000" data-prison="30"> Vente illégale d'armes ($125000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Meurtre (MORT RP UNIQUEMENT)" data-amende="100800" data-prison="60"> Meurtre (MORT RP UNIQUEMENT) ($100800, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Procurer frauduleusement à un tiers un document délivré par une administration publique" data-amende="23500" data-prison="30"> Procurer frauduleusement à un tiers un document délivré par une administration publique ($23500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Atteinte à la sécurité intérieure" data-amende="125000" data-prison="30"> Atteinte à la sécurité intérieure ($125000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Cavale" data-amende="30000" data-prison="60"> Cavale ($30000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Corruption" data-amende="225000" data-prison="30"> Corruption ($225000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Détournement de fonds" data-amende="60000" data-prison="30"> Détournement de fonds ($60000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Espionnage" data-amende="17000" data-prison="30"> Espionnage ($17000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Evasion/Organisation d’Evasion  (Prison ou convoi)" data-amende="135000" data-prison="30"> Evasion/Organisation d’Evasion  (Prison ou convoi) ($135000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Fraude Fiscale" data-amende="90000" data-prison="30"> Fraude Fiscale ($90000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Meurtre sur représentant de l'état (MORT RP UNIQUEMENT)" data-amende="300000" data-prison="30"> Meurtre sur représentant de l'état (MORT RP UNIQUEMENT) ($300000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Tentative de Meurtre sur représentant de l'état (COMA)" data-amende="130000" data-prison="30"> Tentative de Meurtre sur représentant de l'état (COMA) ($130000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Tentative de Meurtre (COMA)" data-amende="110800" data-prison="30"> Tentative de Meurtre (COMA) ($110800, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Participation et/ou assistance à un acte ayant comme but de commettre un crime contre l'état" data-amende="355000" data-prison="30"> Participation et/ou assistance à un acte ayant comme but de commettre un crime contre l'état ($355000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Grenade" data-amende="135000" data-prison="30"> Possession de Grenade ($135000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Possession de Bombe collante" data-amende="135000" data-prison="30"> Possession de Bombe collante ($135000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Prise d'otage sur représentant de l'état" data-amende="18000" data-prison="30"> Prise d'otage sur représentant de l'état ($18000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Séquestration" data-amende="15500" data-prison="30"> Séquestration ($15500, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Trafic d'organe" data-amende="180000" data-prison="45"> Trafic d'organe ($180000, 45 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Trahison" data-amende="225000" data-prison="60"> Trahison ($225000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Trafic d’armes à grande échelle" data-amende="27000" data-prison="60"> Trafic d’armes à grande échelle ($27000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Torture" data-amende="50000" data-prison="30"> Torture ($50000, 30 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Violation d'un ordre/décret gouvernemental" data-amende="40500" data-prison="60"> Violation d'un ordre/décret gouvernemental ($40500, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Atteintes aux intérêts fondamentaux de la nation" data-amende="306000" data-prison="60"> Atteintes aux intérêts fondamentaux de la nation ($306000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Atteintes aux institution de la nation" data-amende="180000" data-prison="60"> Atteintes aux institution de la nation ($180000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Absence de documents légaux d'une entreprise" data-amende="63000" data-prison="60"> Absence de documents légaux d'une entreprise ($63000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Travail dissimulé" data-amende="45000" data-prison="60"> Travail dissimulé ($45000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Travail dissimulé par dissimulation d'emploie salarié" data-amende="45000" data-prison="60"> Travail dissimulé par dissimulation d'emploie salarié ($45000, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Travail dissimulé par dissimulation d'activité" data-amende="58500" data-prison="60"> Travail dissimulé par dissimulation d'activité ($58500, 60 mois)</label>
+        <label class="calc-item"><input type="checkbox" value="Violation du Secret Profesionnel" data-amende="50500" data-prison="30"> Violation du Secret Profesionnel ($50500, 30 mois)</label>
+    </div>
+</div>

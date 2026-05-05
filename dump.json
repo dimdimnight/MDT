@@ -1,0 +1,794 @@
+[
+  [
+    "None",
+    "None",
+    "None",
+    "None",
+    "None",
+    "None"
+  ],
+  [
+    "None",
+    "Code Pénal - FDO Spirit City - Validé par French le 29/04/2026",
+    "None",
+    "None",
+    "None",
+    "None"
+  ],
+  [
+    "None",
+    "Spirit State Fdo",
+    "None",
+    "None",
+    "None",
+    "None"
+  ],
+  [
+    "None",
+    "#",
+    "CATEGORIE",
+    "INFRACTION",
+    "AMENDE EN $",
+    "SUPPLEMENTS"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Stationnement d'un bateau sur la côte hors d'un port",
+    "450.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Manoeuvres dangereuses aux égards des circonstances",
+    "90.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Navigation à moins de 100m des côtes",
+    "90.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Navigation à plus de 30 Km/h dans une voie portuaire",
+    "90.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Navigation à l'approche d'un port en dehors d'une voie portuaire",
+    "450.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Non-respect d'une distance de sécurité",
+    "900.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Mise en circulation d'un véhicule maritime sans assurance adéquate",
+    "450.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Véhicule circulant sur la voie maritime non muni de plaques d'immatriculation ",
+    "1800.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Véhicule circulant sur la voie maritime munies de plaques d'immatriculation trafiquées",
+    "2700.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Refus d'obtempérer à une injonction des pouvoirs publics",
+    "1350.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Atterrissage d'un avion ou hélicoptère sur un site inapproprié à son utilisation",
+    "800.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Survol d'un avion ou hélicoptère sur un site inapproprié à son utilisation",
+    "1350.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Non signalisation sur la fréquence de signalisation aérienne",
+    "225.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Mise en circulation d'un véhicule aerien sans assurance adéquate",
+    "None",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Véhicule circulant sur la voie aérienne non muni de plaques d'immatriculation",
+    "270.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Véhicule circulant sur la voie aérienne munies de plaques d'immatriculation trafiquées",
+    "270.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Appareil aérien non enregistré",
+    "1350.0",
+    "Saisie de l'appareil"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Atteinte à la pudeur",
+    "450.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Bateau non enregistré",
+    "900.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Conduite Hors route/hors piste",
+    "1080.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Circulation zone maritime interdite",
+    "900.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Conduite dangereuse (Drift, Wheeling...)",
+    "900.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Conduite en contre-sens",
+    "900.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Dissimulation du visage",
+    "1500.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Excès de vitesse 1-10km/h",
+    "360.0",
+    "Conduite dangereuse"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Excès de vitesse 11-20 km/h 1pt",
+    "450.0",
+    "Conduite dangereuse"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Excès de vitesse 21-30 km/h 2pts",
+    "540.0",
+    "Conduite dangereuse"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Excès de vitesse 31-50 km/h 3pts",
+    "630.0",
+    "Conduite dangereuse"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Excès de vitesse 51+ km/h retrait",
+    "810.0",
+    "Retrait permis"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Franchissement d'une ligne continue ",
+    "450.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Holster interdit (Sauf PPA)",
+    "1350.0",
+    "Saisie du Holster"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Insulte envers un civil",
+    "270.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Ivresse ou consommation de stupéfiants sur la voie publique",
+    "2700.0",
+    "Dégrisement / Test du médecin"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Mendicité en lieu public",
+    "1350.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Non respect des distances de sécurité (1.5 m)",
+    "135.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Non respect d'un feu rouge (Stop & GO)",
+    "360.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Non respect d'un véhicule prioritaire",
+    "6300.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Non présentation des papiers d'identité",
+    "450.0",
+    "Convocation dans les 48h pour présenter ses papiers"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Occupation illégale de l'espace public",
+    "720.0",
+    "intervention policiere"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Participation à une manifestation illégale",
+    "1350.0",
+    "intervention policiere"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Pêche sur un lieu illégal",
+    "900.0",
+    "x Nb d'espece proteger a saisir "
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Présence piétonne sur une autoroute",
+    "1800.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Rappel à la loi Grave",
+    "13500.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Rapport de vol non enregistré",
+    "2700.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Stationnement Génant",
+    "570.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Stationnement Interdit",
+    "2700.0",
+    "Saisie du véhicule"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Tapage nocturne",
+    "360.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Usage abusif du Klaxon",
+    "450.0",
+    "-"
+  ],
+  [
+    "None",
+    "1",
+    "Contravention",
+    "Véhicule Dégradé",
+    "450.0",
+    "-"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Conduite avec faculté affaiblies",
+    "2250.0",
+    ">0,40gr/L Alcool + Retrait permis"
+  ],
+  [
+    "x",
+    "1",
+    "Contravention",
+    "Faux Appels (Canulars)",
+    "42000.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Agression sur citoyen / maltraitance animal",
+    "10500.0",
+    "Saisie armes"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Survol de zone restreintes classé zones d'exclusions aériennes",
+    "40500.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Possession de poisson illégaux (tortues, requins et espadons)",
+    "350.0",
+    "x quantité + relacher les poissons et/ou destruction"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Atterrissage d'un avion ou hélicoptère sur un site gouvernemental",
+    "27000.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Survol d'un avion ou hélicoptère au dessus d'un site gouvernemental",
+    "10500.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Outrage à agent (de base)",
+    "5000.0",
+    "50 TIG"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Appel abusif service publics",
+    "5000$",
+    "None"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Arme blanche sortie en public",
+    "1350.0",
+    "Confiscation de l'arme"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Braconnage - Chasse",
+    "350$",
+    "x quantité + relacher les PROIES et/ou destruction"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Braquage de Citoyens",
+    "5600.0",
+    "Saisie armes / argent"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Braquage de Supérette",
+    "3250.0",
+    "Saisie armes / argent"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Braquage d'ATM / Piratage d'ATM ",
+    "5250.0",
+    "Saisie armes / argent"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Cambriolage",
+    "1350.0",
+    "Saisie du vol"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Conduite sans permis",
+    "1350.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Conduite d'un véhicule volé ",
+    "2350.0",
+    "Retrait du permis"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Conduite sous interdiction de permis",
+    "2070.0",
+    "Prolongation du retrait de 48h  + Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Consommation de cannabis sur la voie publique ",
+    "720.0",
+    "Saisie + dégrisement"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Consommation de cocaïne sur la voie publique ",
+    "1350.0",
+    "Saisie + dégrisement"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Consomation de méthamphétamine sur la voie publique",
+    "1350.0",
+    "Saisie + dégrisement"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Course de rue illegale (par conducteur)",
+    "1350.0",
+    "Mise en fourrière"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Dégradation de biens privés",
+    "2900.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Dégradation de biens publics",
+    "1900.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Dégradation de matériels publics (Ex: Veh LSPD)",
+    "5500.0",
+    "AmEnde + TIG"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Délit de fuite",
+    "3350.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Dissimulation du visage sur la voie publique",
+    "1350.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Entrave à une opération/enquête (police/justice)",
+    "3500.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Entrave espaces aériens",
+    "900.0",
+    "Suspension du permis aérien\nConfiscation de l'engin"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Exhibition d’armes",
+    "3350.0",
+    "Saisie armes"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Exhibition d’armes lourdes",
+    "9500.0",
+    "Ajout de la Possession + Saisie armes"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Go fast",
+    "2250.0",
+    "Mise en fourrière du véhicule"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Manifestation illégale (par personne)",
+    "3600.0",
+    "Dédomagement"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Organisation d'une manifestation illégale (par personne)",
+    "14500.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Intrusion dans un bâtiment officiel de l'état",
+    "45000.0",
+    "TIG x 50"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Menace et/ou intimidation envers un civil",
+    "9000.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Mise en danger de la vie d’autrui",
+    "5800.0",
+    "Dédomagement"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Non assistance a personne en danger",
+    "4050.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Non dénonciation d’un crime",
+    "2700.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Non présentation à une convocation de police",
+    "6750.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Non respect de l'assignation géographique",
+    "18000.0",
+    "Bracelet électronique"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Non respect du code du travail",
+    "7200.0",
+    "Dédomagement"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Non respect du contrôle judiciaire",
+    "5700.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Obstruction de/ Entrave à l'espace maritime",
+    "3600.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Obstruction de/ Entrave à l'espace aérien",
+    "3600.0",
+    "-"
+  ],
+  [
+    "x",
+    "2",
+    "Délit mineur",
+    "Pêche illégal (Espèce Protégée)",
+    "3600.0",
+    "Saisie"
+  ]
+]
